@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 9ad6ffca2ca20ec4a9553d750408b08a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - z_wall: {fileID: 190658, guid: bb44ef16b180b6941bbe4caf411f6249, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
